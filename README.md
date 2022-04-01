@@ -1,0 +1,2 @@
+# Practica_entornos
+Se trata de cargar un programa en Eclipse y utilizando GIT, realizar cambios en el programa e ir subiéndolos a un repositorio, etc. Se debe hacer al menos todo lo realizado en clase con GIT. Se aportarán capturas de pantalla completa (sin recortar), y se explicará lo que se está haciendo y lo que aparece en pantalla. Tras repetir lo que se ha hecho en clase, se ampliará la actividad, registrándose en GIT HUB, para mostrar cómo hacer operaciones en un repositorio remoto. 
