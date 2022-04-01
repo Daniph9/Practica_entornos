@@ -3,7 +3,7 @@ public class estetica {
 	
 	//variables
 	String titulo = "Baraja Española";
-	String autor = "Daniel Peinado";
+	String autor = "Daniel Peinado Hernandez";
 
 	public void limpiarln(int num){
 		for (int i=0; i<num; i++){
